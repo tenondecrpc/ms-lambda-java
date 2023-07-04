@@ -1,0 +1,5 @@
+
+m
+java:S36557"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(υβΏ―8αƒαπ1
+`
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(ΩΙ‰μψÿÿÿÿ8δƒαπ1
